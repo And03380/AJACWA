@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 #################################################################################################################
 # Copyright 2018 Symantec Corporation. All rights reserved.
-# Script to get Events
+# Script to get Events AJAJAAJAJAJ
 # You need to provide Client ID and Client Secret Key in config.ini file under Credentials sections, to generate
 #  auth token.
 # These keys can be found on CWA customer portal, once you are logged in navigate to Settings->API Keys
@@ -23,7 +23,7 @@ from pathlib import Path
 logger = logging.getLogger("cwa_AddAccountToScanProfile")
 logger.setLevel(logging.INFO)
 
-# create console handler (ch) and set level to debug
+# create console handler (ch) and set level to debug 
 ch = logging.StreamHandler()
 
 # create formatter
